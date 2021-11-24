@@ -5,3 +5,5 @@
 [![cppcheck-action-test](https://github.com/mayuri-salankar/M1_Application_Calculator/actions/workflows/cpp%20check.yml/badge.svg)](https://github.com/mayuri-salankar/M1_Application_Calculator/actions/workflows/cpp%20check.yml)
 
 ![code score](https://api.codiga.io/project/29994/score/svg) 
+
+![code grade](https://api.codiga.io/project/29994/status/svg)
