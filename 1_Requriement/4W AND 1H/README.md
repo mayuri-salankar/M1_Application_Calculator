@@ -1,9 +1,16 @@
 ﻿- **4W and 1H:**
 
-**WHEN:** While we do some complex math problems with large numbers or for getting an exact answer without any error.
+__WHO:__
+All the financial related employees and students can us this calculator to find out the result.
 
-**WHERE:** It is used by many like for example: By students, In kirana shops, In hospital’s reception, (its commonly used by everyone these days, its requirement is really high).
+__WHAT:__
+Calculator allows users to perform various arthemetic operations more easily.
 
-**WHAT:**  Stores history of the previous solutions in it, Gives the exact solution just within a second, If there’s any error it show the error and tell us to make the problem statement right.
+__WHEN:__
+To perform arthemetic operations with minimal human intervention.
 
-**WHY:** Firstly, it is really useful for solving complex and hard problems, gives the exact solution within a sec, people will not have to waste much time on calculating the problems manually.
+__WHERE:__
+It can be used in all domains. It can also easily implemented on the mobile systems and finance companies
+
+__HOW:__
+Calculators work by processing information in binary form. when you input numbers in to a calculator, the integrated circuit converts those numbers to binary strings of 0s and 1s. Once a calculation has been completed, the answer in binary form is then converted back to our normal base-ten system and displayed on the calculator's display screen.
