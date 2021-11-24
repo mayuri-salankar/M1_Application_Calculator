@@ -1,10 +1,34 @@
 ﻿- **SWOT Analysis:**
 
-**Strength:** It is capable enough to solve most complex problems. Allow students to make quick, accurate mathematical calculations. To help students expand the scope of their mental abilities. Calculator gives more accurate results than counting manually. Useful to convert the units of measurements.
+**Strength:** 
 
-**Weakness:** You need to take basic training to operate some basic commands. Some technical calculators are costly too. People will be unable to memorize the process of problem solving and depend on calculators.
+• Calculator can Solve complicated problems quickly and in an effiient manner.
 
-**Opportunities**: It is efficient for everyone as it is capable of solving complex problems so easily and saves time of the user.
+• It gives more accurate results than counting manually.
 
-**Threads:** By using the calculators people looses the ability to do calculations manually as they want to save their time from doing calculations manually. 
+• Avoids boredom in counting process.
+
+• Calculator  will be effiecient and fast in response.
+
+**Weakness:** 
+
+• Calculator limits the knowledge of users.
+
+• Users will be so dependent on using calculators for counting.
+
+• Relaying too much on calculator for counting can embarrass the users.
+
+**Opportunities**: 
+
+• General purpose calculators are those designed for specific markets.
+
+• Basic calculators are affordable to most and they became common in schools
+
+• Can be implemented on mobile devices with some advanced features.
+
+**Threads:** 
+
+• Loss of figure in computation of higer numbers.
+
+• The processing of numbers are in binary coded decimal(BCD).
 
