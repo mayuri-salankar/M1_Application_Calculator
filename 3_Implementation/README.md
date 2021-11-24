@@ -1,11 +1,10 @@
-__Folder Structure:-__
+# Implementation
 
-__Folders with there Descriptions:__
+## Folder Structure
 
-__-> inc:-__	All header files
-
-__-> src:-__	Main source code for system
-
-__-> test:-__	All source code and data for testing purposes
-
-__-> build:-__	Build output
+| Folder | Description |
+| --- | --- |
+| inc | All header files |
+| src | Main source code for system |
+| test | All source code and data for testing purposes |
+| build | Build output |
